@@ -1,9 +1,9 @@
 {
   "name": "Composer Huge Tag Selector",
   "component": true,
-  "license_url": null,
-  "about_url": null,
-  "authors": null,
+  "license_url": "https://github.com/denvergeeks/discourse-composer-horizontal-tag-selector/blob/main/LICENSE",
+  "about_url": "https://github.com/denvergeeks/discourse-composer-horizontal-tag-selector/blob/main/README.md",
+  "authors": "@denvergeeks",
   "theme_version": null,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
