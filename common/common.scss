@@ -1,9 +1,9 @@
-.navigation-container .tags-input .select-kit.is-expanded .select-kit-body {
+.list-controls .select-kit.is-expanded .select-kit-body {
     max-width: 85% !important;
     padding: 5px 15px 15px !important;
 }
 
-.navigation-container .tags-input .select-kit .select-kit-collection {
+.list-controls .select-kit .select-kit-collection {
     display: flex !important;
     flex-wrap: wrap !important;
     flex-direction: column !important;
@@ -11,6 +11,8 @@
     overflow-y: auto !important;
 }
 
-section.navigation-container .tags-input .select-kit .select-kit-row {
-    padding: .1em .5em!important;
+.list-controls .select-kit.tag-chooser .select-kit-row,
+.list-controls .select-kit.mini-tag-chooser .select-kit-row,
+.list-controls .select-kit.tag-drop .select-kit-row {
+    padding: .1em .5em !important;
 }
