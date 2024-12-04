@@ -1,9 +1,9 @@
-div.composer-fields .tags-input .select-kit.is-expanded .select-kit-body {
+.navigation-container .tags-input .select-kit.is-expanded .select-kit-body {
     max-width: 85% !important;
     padding: 5px 15px 15px !important;
 }
 
-div.composer-fields .tags-input .select-kit .select-kit-collection {
+.navigation-container .composer-fields .tags-input .select-kit .select-kit-collection {
     display: flex !important;
     flex-wrap: wrap !important;
     flex-direction: column !important;
@@ -11,6 +11,6 @@ div.composer-fields .tags-input .select-kit .select-kit-collection {
     overflow-y: auto !important;
 }
 
-div.composer-fields .tags-input .select-kit .select-kit-row {
+.navigation-container .composer-fields .tags-input .select-kit .select-kit-row {
     padding: .1em .5em!important;
 }
