@@ -1,8 +1,8 @@
 {
-  "name": "Jen's Composer Horizontal Tag Selector",
+  "name": "Jen's Topic List Horizontal Tag Selector",
   "component": true,
-  "license_url": "https://github.com/denvergeeks/discourse-composer-horizontal-tag-selector/blob/main/LICENSE",
-  "about_url": "https://github.com/denvergeeks/discourse-composer-horizontal-tag-selector/blob/main/README.md",
+  "license_url": "https://github.com/denvergeeks/discourse-topic-list-horizontal-tag-selector/blob/main/LICENSE",
+  "about_url": "https://github.com/denvergeeks/discourse-topic-list-horizontal-tag-selector/blob/main/README.md",
   "authors": "@denvergeeks",
   "theme_version": null,
   "minimum_discourse_version": null,
