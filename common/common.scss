@@ -23,10 +23,10 @@
 .list-controls .select-kit.mini-tag-chooser .select-kit-row,
 .list-controls .select-kit.tag-drop .select-kit-row {
     padding: .1em .5em !important;
+    background: #fff !important;
 }
 
 .list-controls .select-kit .select-kit-row.is-highlighted {
-    color: #fff !important;
     background: #b0b0cc !important;
     outline: 1px dashed green;
     outline-offset: -3px;
