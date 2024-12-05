@@ -17,13 +17,14 @@
     flex-direction: column !important;
     overflow-x: auto !important;
     overflow-y: auto !important;
+    background-color: #fff !important;
 }
 
 .list-controls .select-kit.tag-chooser .select-kit-row,
 .list-controls .select-kit.mini-tag-chooser .select-kit-row,
 .list-controls .select-kit.tag-drop .select-kit-row {
     padding: .1em .5em !important;
-    background: #fff !important;
+    /* background: #fff !important; */
 }
 
 .list-controls .select-kit .select-kit-row.is-highlighted {
