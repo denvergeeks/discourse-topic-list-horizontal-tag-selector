@@ -27,7 +27,8 @@
 }
 
 .list-controls .select-kit .select-kit-row.is-highlighted {
-    background: #b0b0cc !important;
-    outline: 1px dashed green;
+    /* background: #b0b0cc !important; */
+    outline: 1px dashed var(--tertiary);
     outline-offset: -3px;
 }
+color: var(--tertiary);
