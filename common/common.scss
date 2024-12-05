@@ -10,9 +10,10 @@
 }
 
 .list-controls .select-kit.is-expanded .select-kit-filter.is-expanded {
-    background: var(--secondary);
-    border: 1px solid var(--primary-400);
+    background: var(--secondary) !important;
+    border: 1px solid var(--primary-400) !important;
     border-radius: 4px !important;
+    padding: 2px .5em 0 !important;
 }
 
 .list-controls .select-kit .select-kit-collection {
