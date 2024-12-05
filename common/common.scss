@@ -12,6 +12,7 @@
 .list-controls .select-kit.is-expanded .select-kit-filter.is-expanded {
     background: var(--secondary);
     border: 1px solid var(--primary-400);
+    border-radius: 4px !important;
 }
 
 .list-controls .select-kit .select-kit-collection {
@@ -21,17 +22,20 @@
     overflow-x: auto !important;
     overflow-y: auto !important;
     background-color: var(--secondary) !important;
+    border-radius: 4px !important;
 }
 
 .list-controls .select-kit.tag-chooser .select-kit-row,
 .list-controls .select-kit.mini-tag-chooser .select-kit-row,
 .list-controls .select-kit.tag-drop .select-kit-row {
     padding: .1em .5em !important;
+    border-radius: 4px !important;
 }
 
 .list-controls .select-kit .select-kit-row.is-highlighted {
     background-color: var(--secondary) !important;
     outline: 1px dashed var(--tertiary) !important;
     outline-offset: -3px !important;
+    border-radius: 4px !important;
 }
 
