@@ -24,7 +24,8 @@
 }
 
 .list-controls .select-kit .select-kit-row.is-highlighted {
-    background: var(--d-hover);
+    color: #fff !important;
+    background: #b0b0cc !important;
     outline: 1px dashed green;
     outline-offset: -3px;
 }
