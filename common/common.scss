@@ -20,7 +20,8 @@
     box-shadow: 0 1.36px 8.896px #c4b59d, 0 0 1px !important;
     background-color: #f7f4f4 !important;
     background-image: url(data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0nMTAwJScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48ZGVmcz48ZmlsdGVyIGlkPSdhJz48ZmVUdXJidWxlbmNlIHR5cGU9J2ZyYWN0YWxOb2lzZScgYmFzZUZyZXF1ZW5jeT0nLjQnLz48L2ZpbHRlcj48L2RlZnM+PCEtLSA8cGF0aCBmaWx0ZXI9J3VybCgjYSknIG9wYWNpdHk9Jy4zJyBkPSdNMCAwaDEyMDB2MjU2SDB6Jy8+LS0+PHJlY3QgZmlsdGVyPSd1cmwoI2EpJyBvcGFjaXR5PScuMycgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScvPjwvc3ZnPg==);
-    inset: 0 0 auto -10px !important;
+    /* inset: 0 0 auto -10px !important; */
+    margin: 0 calc(25% + 35px) 0 0 !important;
 }
 
 .list-controls .select-kit.is-expanded .select-kit-filter.is-expanded {
